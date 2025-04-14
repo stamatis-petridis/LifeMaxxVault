@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "README"
             }
           }
         ]
@@ -31,10 +31,14 @@
             "id": "889591641d74fd75",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "DailyNotes/2025/04/14.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "14"
             }
           }
         ]
@@ -110,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "DailyNotes/2025/04/14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for 14"
             }
           },
           {
@@ -129,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "DailyNotes/2025/04/14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from 14"
             }
           },
           {
@@ -158,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "DailyNotes/2025/04/14.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of 14"
             }
           }
         ]
@@ -184,8 +188,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f7146c7a7cb883a",
+  "active": "889591641d74fd75",
   "lastOpenFiles": [
-    "Welcome.md"
+    "DailyNotes/2025/04/13.md",
+    "DailyNotes/2025/04/14.md",
+    "README.md",
+    "_Templates/daily-template.md.md",
+    "DailyNotes/13/04/2025.md",
+    "DailyNotes/2025/04",
+    "DailyNotes/2025",
+    "DailyNotes/13/04",
+    "DailyNotes/13",
+    "DailyNotes",
+    "Welcome.md",
+    "_Templates"
   ]
 }
